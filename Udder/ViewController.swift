@@ -17,5 +17,8 @@ class ViewController: UIViewController {
         <#code#>
     }
 
+    override func viewDidLayoutSubviews() {
+        <#code#>
+    }
 }
 
